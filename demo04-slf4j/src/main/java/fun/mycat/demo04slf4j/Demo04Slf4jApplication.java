@@ -1,0 +1,13 @@
+package fun.mycat.demo04slf4j;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Demo04Slf4jApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Demo04Slf4jApplication.class, args);
+    }
+
+}
